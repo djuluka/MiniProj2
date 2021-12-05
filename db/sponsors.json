@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Empresa XPTO",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+    "level": "Nivel Prata",
+    "avaliacao": "3",
+    "comentario": "4"
+  },
+  {
+    "id": "2",
+    "name": "XPTO XzT",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+    "level": "Nivel Gold",
+    "avaliacao": "24",
+    "comentario": "5"
+  },
+  {
+    "id": "3",
+    "name": "AL TIME",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+    "level": "Nivel Gold",
+    "avaliacao": "1",
+    "comentario": "6"
+  },
+  {
+    "id": "4",
+    "name": "XYZ",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+    "level": "Nivel Gold",
+    "avaliacao": "13",
+    "comentario": "7"
+  },
+  {
+    "id": "5",
+    "name": "DOG Hospital",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+    "level": "Nivel Black",
+    "avaliacao": "143",
+    "comentario": "11"
+  },
+  {
+    "id": "6",
+    "name": "Aminal HOTEL",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+    "level": "Nivel Premiun",
+    "avaliacao": "123",
+    "comentario": "41"
+  }
+]
